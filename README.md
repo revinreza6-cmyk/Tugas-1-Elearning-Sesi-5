@@ -11,4 +11,4 @@ Tugas Pemrograman Web 1, Universitas Teknologi Bandung.
 Buka file `index.html` di browser.
 
 ## Screenshot Tampilan
-![Screenshot tampilan website](screenshot_web.jpeg)
+![Screenshot tampilan website](screenshot_web_1.jpeg)
